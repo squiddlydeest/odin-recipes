@@ -1,4 +1,23 @@
 * {
     background-color:dodgerblue;
-    color:rgb(65, 35, 184)
+    color:rgb(215, 31, 169);
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    line-height: 32px;
+    
+    margin-block-start: 6px;
+    margin-block-end: 24px;
+    margin-bottom: 24px;
+    overflow-wrap:break-word;
+    
+}
+
+img {
+    height: auto;
+    width: 500px;
+
+}
+
+div {
+    text-align: center;
 }
